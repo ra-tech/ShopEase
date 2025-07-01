@@ -20,7 +20,6 @@ This project replicates core layout features commonly found in real-world online
 ## 🔗 Live Demo
 
 [👉 View the Site](https://your-new-site.github.io/ShopEase-UI/)  
-*(Update this link with your new GitHub Pages deployment)*
 
 ---
 
