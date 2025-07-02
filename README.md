@@ -6,7 +6,7 @@ This project replicates core layout features commonly found in real-world online
 
 ---
 
-## 🚀 Features
+## Features
 
 - Responsive navigation bar with search functionality
 - Hero section with promotional messaging
@@ -17,22 +17,21 @@ This project replicates core layout features commonly found in real-world online
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
-[👉 View the Site](https://your-new-site.github.io/ShopEase-UI/)  
+[👉 View the Site](https://ra-tech.github.io/ShopEase/)  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - HTML5  
 - CSS3  
 - Font Awesome  
-- [Custom color palette](#color-palette)
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is built solely for educational and portfolio purposes. It is **not affiliated with or endorsed by Amazon** or any other real e-commerce platform. All images used are either royalty-free or custom-generated placeholders.
 

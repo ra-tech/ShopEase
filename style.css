@@ -9,6 +9,9 @@
 .navbar {
     background-color: #251F47;
     height: 60px;
+    position:fixed;
+    top:0;
+    width:100%;
     color: white;
     display: flex;
     flex-direction: row;
@@ -43,6 +46,7 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    color: #71B48D;
 }
 .add-second {
     color: #ffffff;
@@ -127,6 +131,7 @@
 /* CART */
 .nav-cart i {
     font-size: 30px;
+    color: #71B48D;
 }
 .nav-cart {
     font-size: 0.85rem;
@@ -136,7 +141,7 @@
 /* PANEL */
 .panel {
     background-color: #404E7C;
-    height: 39px;
+    height: 40px;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -165,8 +170,8 @@
     align-items: flex-end;
 }
 .hero-msg {
-    background-color: #f5f6f6;
-    color: #260F26;
+    background-color: #1d2338;
+    color: #eeeeee;
     display: flex;
     height: 40px;
     justify-content: center;
@@ -180,20 +185,22 @@
 }
 
 /* SALES SECTION */
+body{
+    background-color: #1d2338;
+    padding-top: 60px; /* equal to .navbar height */
+}
 .sales-section {
     display: flex;
     justify-content: space-evenly;
-    background-color: #f9f9f9;
     flex-wrap: wrap;
     padding-bottom: 20px;
 }
 .box {
     height: 385px;
     width: 23%;
-    background-color: #ffffff;
+    background-color: black;
     padding: 20px 0 15px;
     margin-top: 20px;
-    border: 1px solid #eeeeee;
 }
 .box-image {
     background-size: cover;
@@ -207,7 +214,7 @@
 }
 .box-content h2 {
     font-size: 20px;
-    color: #251F47;
+    color: #eeeeee;
 }
 .box-content p {
     color: #71B48D;
